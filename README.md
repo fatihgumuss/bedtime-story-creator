@@ -49,7 +49,7 @@ This project is a web application that allows parents to create personalized bed
    npm install
    ```
 
-3. Create a `.env` file and add your Gemini API key (optional):
+3. Create a `.env` file and add your Gemini API key (optional but otherwise a dummy story will be generated):
    ```
    GEMINI_API_KEY=your_api_key_here
    ```
